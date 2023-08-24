@@ -18,11 +18,11 @@ den PDF Chat Bot selbst verwenden möchtet.
 
 ## Installation und Starten von PDF ChatBot
 
-PDF ChatBot habe ich auf einem Ubuntu-Rechner entwickelt und getestet. Er wird
-mit hoher Wahrscheinlichkeit aber auch unter einem Windows- oder Mac OS-Betriebssystem
-laufen können, insbesondere, wenn ihr Docker verwendet. Da ich das aber nicht getestet
-habe, beschränke ich mich in der Installationsanleitung auf ein Debian-basiertes
-Betriebssystem.
+PDF ChatBot habe ich auf einem Ubuntu-Rechner entwickelt und getestet. Er funktioniert auch unter
+einem Windows-Betriebssystem und wahrscheinlich auch unter Mac OS, das habe ich aber nicht
+getestet. Für Windows-Betriebssysteme kann ich die Installation von Docker Desktop
+empfehlen, da hier alle benötigen Tools bereits dabei sind und über eine
+Powershell entsprechend analog aufgerufen werden können.
 
 Das Repository könnt ihr entweder als .zip-Datei über den entsprechenden Button im
 Web-Browser herunterladen und manuell auf euerem Rechner entpacken oder ihr verwendet
