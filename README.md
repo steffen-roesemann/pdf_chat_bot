@@ -180,9 +180,4 @@ Jegliche Kommunikation, die über die Software erfolgt, liegt in eurer Verantwor
 
 Durch die Verwendung dieser Software erklären ihr euch damit einverstanden, auf jegliche Ansprüche, Klagen oder Forderungen gegenüber mir zu verzichten, die sich aus der Nutzung der Software ergeben könnte.
 
-Bitte lesen Sie diesen Haftungsausschluss sorgfältig durch, bevor ihr die Software nutzt. Wenn ihr nicht mit den Bedingungen dieses Haftungsausschlusses einverstanden sind, dürfen ihr die Software nicht verwenden.
-
-## Lizensierung dieses Projektes
-
-
-
+Bitte lest diesen Haftungsausschluss sorgfältig durch, bevor ihr die Software nutzt. Wenn ihr nicht mit den Bedingungen dieses Haftungsausschlusses einverstanden sind, dürfen ihr die Software nicht verwenden.
